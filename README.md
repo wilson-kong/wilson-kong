@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wilson-kong-2290ba83/)
 
 ### :fire: My Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilson-kong)](#)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilson-kong&theme=dark&background=000000)](#)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong&layout=donut&langs_count=5)](#)
