@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilson-kong)](#)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wilson-kong)](#)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bb0fd665-3a02-4900-8932-3638de54e332)](#)
 
 #### Made thanks to following:
 [https://git.io/streak-stats](https://git.io/streak-stats)
