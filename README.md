@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wilson-kong-2290ba83/)
 
 ### :fire: My Stats :
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong&layout=donut&langs_count=5" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wilson-kong&theme=dark&background=000000" />
+</a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong&layout=donut&langs_count=5)](#)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilson-kong&theme=dark&background=000000)](#)
@@ -25,6 +33,8 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilson-kong)](#)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bb0fd665-3a02-4900-8932-3638de54e332)](#)
+
+
 
 #### Made thanks to following:
 [https://git.io/streak-stats](https://git.io/streak-stats)
