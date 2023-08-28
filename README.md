@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilson-kong&theme=dark&background=000000)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong&layout=donut)](#)
 
 
 
