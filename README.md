@@ -1,4 +1,5 @@
-### Hi there 👋
+## Wilson
+Hello, Wilson (He/Him) here, I'm a software engineering educator who loves to code. Please hire me. 🙏
 
 <!--
 **wilson-kong/wilson-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wilson-kong-2290ba83/)
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilson-kong&theme=dark&background=000000)](#)
 
