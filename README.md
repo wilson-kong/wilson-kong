@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong&layout=donut&langs_count=5" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wilson-kong&theme=dark&background=000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wilson-kong" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson-kong&layout=donut&langs_count=5)](#)
