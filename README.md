@@ -14,13 +14,18 @@ Hello, Wilson (He/Him) here, I'm a software engineering educator who loves to co
 </a>
 
 ### Resume
-[My resume]([wilson.](https://wilson-kong.github.io/resume/))
+[![Resume](https://img.shields.io/badge/My-Resume-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)](https://wilson-kong.github.io/resume/)
+
 
 ### Contact me
 
-[![Email Badge](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=EA4335)](mailto:w.k.wilson-kong@gmail.com)
+<a href="mailto:w.k.wilson-kong@gmail.com">
+  <img  align="center" src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" />
+</a>
+<a href="https://www.linkedin.com/in/wilson-kong-2290ba83/">
+  <img  align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
+</a>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wilson-kong-2290ba83/)
 
 #### Made thanks to following:
 [https://git.io/streak-stats](https://git.io/streak-stats)
